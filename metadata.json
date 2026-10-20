@@ -1,0 +1,6 @@
+{
+  "name": "Staff Duty Scheduling & Administration System",
+  "description": "Comprehensive administrative duty scheduling system with conflict evaluation, staff database management, credential register authentication, and institutional duty roster retrieval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
